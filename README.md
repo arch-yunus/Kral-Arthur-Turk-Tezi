@@ -2,60 +2,70 @@
 
 ![Kral Arthur Bozkır Style](images/kral_arthur_bozkir.png)
 
-Bu depo, Britanya mitolojisinin en ikonik figürü olan **Kral Arthur** ve **Yuvarlak Masa Şövalyeleri** efsanesinin kökenlerini, Avrasya bozkırlarına ve antik Türk/Sarmat kültürlerine dayandıran bilimsel teorileri, etimolojik benzerlikleri ve tarihsel verileri bir araya getirmek amacıyla oluşturulmuştur.
-
-## 📌 Proje Özeti
-Geleneksel tarih yazımı Kral Arthur'u bir Kelt kahramanı olarak tanımlasa da, 1970'lerden itibaren güçlenen **"Sarmat Bağlantısı" (Sarmatian Connection)** teorisi, efsanenin çekirdeğinin MS 175 yılında Roma İmparatoru Marcus Aurelius tarafından Britanya'ya gönderilen 5.500 kişilik Sarmat süvari birliği olduğunu savunur. Bu proje, bu teoriyi Türk tarih tezi ve kültürel arketipler perspektifiyle inceler.
+Bu dijital arşiv, Britanya mitolojisinin en ikonik figürü olan **Kral Arthur** ve **Yuvarlak Masa Şövalyeleri** efsanesinin kökenlerini, Avrasya bozkırlarına ve antik Türk/Sarmat kültürlerine dayandıran bilimsel teorileri, etimolojik benzerlikleri ve tarihsel verileri bir araya getirmek amacıyla oluşturulmuştur.
 
 ---
 
-## 📂 Proje Yapısı ve İçerik
+## 📌 Proje Özeti ve Vizyon
+Geleneksel tarih yazımı Kral Arthur'u bir Kelt kahramanı veya Roma sonrası bir Briton lideri olarak tanımlasa da, 1970'lerden itibaren güçlenen **"Sarmat Bağlantısı" (Sarmatian Connection)** teorisi, efsanenin çekirdeğinin MS 175 yılında Roma İmparatoru Marcus Aurelius tarafından Britanya'ya gönderilen 5.500 kişilik Sarmat süvari birliği olduğunu savunur.
 
-Aşağıdaki bağlantılar üzerinden araştırmanın detaylarına ulaşabilirsiniz:
-
-*   📜 **[Zaman Çizelgesi](timeline.md):** MS 175'ten günümüze "Sarmat Bağlantısı"nın kronolojik akışı.
-*   📜 **[Etimoloji Tablosu](etymology/etimoloji_tablosu.md):** Arthur, Excalibur ve Pendragon gibi isimlerin Türkçe köken analizleri.
-*   📜 **[Makale Özetleri](documents/makale_ozetleri.md):** Littleton, Malcor ve Osman Karatay gibi isimlerin akademik çalışma özetleri.
-*   🖼️ **[Görsel Arşiv](images/):** Sarmat sancakları ve temsili görseller.
+Bu proje, bu teoriyi sadece bir "göç" vakası olarak değil, **Türk Tarih Tezi** ve Avrasya Bozkır kültürü perspektifiyle, mitolojik arketiplerin nasıl kıta değiştirdiğini kanıtlarıyla inceleyen dinamik bir bilgi üssüdür.
 
 ---
 
-## 🛡️ Temel Kanıtlar ve Teorik Dayanaklar
+## 📂 Proje Yapısı ve Navigasyon
 
-### 1. Tarihsel Arka Plan: MS 175 Göçü
-*   **Sarmat Süvarileri:** Roma ile yapılan barış anlaşması gereği, İskit-Saka bakiyesi olan ve Türk dilli/kültürlü topluluklarla akraba kabul edilen 5.500 Sarmat (Yazıg) süvarisi Hadrian Duvarı'nı korumak için Britanya'ya yerleştirilmiştir.
-*   **Lucius Artorius Castus:** Bu birliğin komutanı olan Romalı subayın adı, efsanevi "Arthur" isminin tarihsel prototipi olarak kabul edilir.
+Araştırmanın derinliklerine inmek için aşağıdaki modülleri kullanabilirsiniz:
 
-### 2. Etimolojik Benzerlikler
-Teori, efsanedeki kilit isimlerin Hint-Avrupa dilleriyle değil, Türkçe kökenlerle daha tutarlı açıklandığını savunur:
-*   **Arthur:** *Ar-Tur* (Yiğit Türk / Er-Tur).
-*   **Excalibur:** *Kılıç-Avur* (Kılıç vuran) veya *Kılıç-Yavuz*.
-*   **Pendragon:** *Ban-Tarkan* (Baş lider/komutan).
-*   **Bedivere:** *Bahadır*.
+*   📜 **[Zaman Çizelgesi](timeline.md):** MS 175'teki ilk sevkiyattan modern akademik çalışmalara kadar olan kronolojik süreç.
+*   📜 **[Etimoloji Laboratuvarı](etymology/etimoloji_tablosu.md):** Arthur, Excalibur, Lancelot ve Pendragon gibi isimlerin Türkçe/Bozkır dillerindeki izdüşümleri.
+*   📜 **[Akademik Literatür](documents/makale_ozetleri.md):** Littleton, Malcor ve Osman Karatay gibi otoritelerin çalışmalarının derinlemesine özetleri.
+*   🖼️ **[Görsel Galeri](images/):** Sarmat askeri teçhizatı, Draco sancakları ve efsanenin Bozkır yorumlarına dair görselleştirmeler.
 
-### 3. Mitolojik Arketipler (Bozkır vs. Britanya)
-*   **Kılıç Kültü:** Kılıcın bir taştan çekilmesi veya bir göle atılması motifi, antik Bozkır kültürlerindeki (İskitler) kılıca tapınma ve kutsal kılıç ritüelleriyle birebir örtüşür.
-*   **Yuvarlak Masa:** Türk töresindeki **Kengeş** (Meclis) geleneği ve boy beylerinin eşit statüde oturma düzeni.
-*   **Ejderha (Dragon) Sancakları:** Sarmatların kullandığı rüzgarla şişen ejderha biçimli sancaklar (Draco), bugün hala Galler bayrağında yaşayan "Dragon" sembolizminin kaynağıdır.
+---
+
+## 🛡️ Temel Kanıtlar ve Genişletilmiş Analiz
+
+### 1. Tarihsel Temel: Sarmat Lejyonları ve Castus
+MS 175 yılında, Marcomanni Savaşları'nın ardından 5.500 Sarmat (Yazıg) süvarisi, Roma İmparatorluğu'nun kuzey sınırlarını (Hadrian Duvarı) korumak üzere Britanya'ya "Bremetennacum" (günümüz Ribchester) merkezli olarak yerleştirilmiştir.
+*   **Askeri Devrim:** Bu süvariler, Britanya'ya o güne dek görülmemiş bir askeri sınıf getirmiştir: **Kataphrakt (Ağır Zırhlı Süvari)**. Bu sınıf, Ortaçağ şövalyeliğinin teknik ve kültürel atasıdır.
+*   **Artorius Castus:** Birliğin komutanı olan Lucius Artorius Castus'un hayatı, efsanevi "Kral Arthur"un tarihsel çekirdeğini oluşturur. Castus'un Armorica (Fransa/Bretanya) seferleri, Arthur'un kıta Avrupası seferleriyle paralellik gösterir.
+
+### 2. Mitolojik Paralellikler: Bozkırın İzleri
+Efsanedeki en önemli sahneler, antik İskit ve Sarmat ritüellerinde binlerce yıl önce yaşanmaktaydı:
+*   **Taştan Çıkan Kılıç:** İskitlerin savaş tanrısı adına bir toprak yığınının tepesine diktikleri kılıca tapınma kültü, Arthur'un krallığını kanıtlamak için kılıcı taştan (veya örsten) çekmesi motifiyle doğrudan ilişkilidir.
+*   **Kutsal Kase (Grail) ve Nart Destanları:** Kafkasya Bozkırlarında (Nart Destanları) bulunan ve sadece en layık olanın içebildiği "Nartyamonga" (Kutsal Kadeh), Kutsal Kase arayışının (Grail Quest) Bozkır kökenli prototipidir.
+*   **Kılıcın Göle Atılması:** Arthur'un ölmeden önce Excalibur'un göle atılmasını istemesi, ölen liderin silahının suya veya gömütüne bırakılması şeklindeki Bozkır geleneğinin (Kurgan kültürü) bir yansımasıdır.
+
+### 3. Sembolizm: Ejderha ve Bayrak
+Sarmatların savaş meydanlarında kullandığı, rüzgarla dolup ıslık çalan ejderha başlı sancaklar (**Draco**), efsanevi "Pendragon" (Ejderhanın Başı) unvanının ve Galler'in milli sembolü olan kırmızı ejderhanın kaynağıdır.
 
 ![Sarmat Ejderha Sancağı](images/sarmat_ejderha_sancagi.png)
 
 ---
 
-## 📚 Kaynakça
-Projenin temel aldığı bazı akademik çalışmalar:
-*   **C. Scott Littleton & Linda A. Malcor:** *From Scythia to Camelot*.
-*   **Prof. Dr. Osman Karatay:** *İngiltere'de Neler Oldu?* ve *Türklerin Kökeni*.
-*   **Kemp Malone:** *The Historical Arthur*.
+## 🔍 Araştırma Metodolojisi
+Bu projede kullanılan veriler şu disiplinlerin kesişim kümesinden elde edilmiştir:
+1.  **Karşılaştırmalı Mitoloji:** Nart Destanları ile Arthur döngüsü arasındaki motif analizi.
+2.  **Tarihsel Dilbilim:** Türkçe, Macarca ve Alan dilleri üzerinden etimolojik köken taraması.
+3.  **Arkeoloji:** Ribchester ve Hadrian Duvarı çevresindeki Sarmat mezar taşları ve askeri kalıntılar.
 
 ---
 
-## 🤝 Katkıda Bulunma
-Bu araştırma gelişmeye açık bir projedir. Eğer elinizde etimolojik karşılaştırmalar veya arkeolojik bulgular varsa lütfen bir **Pull Request** açın.
+## 📚 Bibliyografya ve Referanslar
+Araştırmanın temel direkleri:
+*   **C. Scott Littleton & Linda A. Malcor:** *From Scythia to Camelot: A Radical Reassessment of the Legends of King Arthur, the Knights of the Round Table, and the Holy Grail*.
+*   **Prof. Dr. Osman Karatay:** *İngiltere'de Neler Oldu?* (Arthur'un Türk dilli Sarmatlarla bağı üzerine en kapsamlı Türkçe eser).
+*   **Kemp Malone:** *The Historical Arthur* (Artorius Castus üzerine öncü çalışma).
+
+---
+
+## 🤝 Katkıda Bulunma ve İletişim
+Bu araştırma deponun ötesinde, yaşayan bir tezdir. Yeni arkeolojik veriler veya dilbilimsel keşifler için **Issue** açabilir veya doğrudan **Pull Request** ile katkı sağlayabilirsiniz.
 
 ---
 
 ## ⚖️ Lisans
-Bu proje **MIT Lisanslı** altındadır.
+Bu proje, tarihsel hakikatlerin özgürce paylaşılması için **MIT Lisansı** altında korunmaktadır.
 
-> *"Tarih, sadece savaşları değil, kültürlerin sessiz göçlerini de anlatır."*
+> *"Kılıç sadece bir metal parçası değil, bir kültürün yeminidir."*
